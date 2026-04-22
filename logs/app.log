@@ -1,0 +1,6 @@
+2026-04-22 21:46:34,880 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-22 21:46:34,880 - ERROR - Error placing order: API Secret required for private endpoints
+2026-04-22 22:11:56,768 - INFO - Placing order: BTCUSDT BUY MARKET 0.001 None
+2026-04-22 22:11:56,768 - INFO - Response: {'orderId': 475020, 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': 'market_price'}
+2026-04-22 22:12:43,922 - INFO - Placing order: BTCUSDT SELL LIMIT 0.001 60000.0
+2026-04-22 22:12:43,922 - INFO - Response: {'orderId': 832689, 'status': 'NEW', 'executedQty': 0.001, 'avgPrice': 60000.0}
