@@ -1,5 +1,9 @@
 # Binance Futures Trading Bot (Testnet)
 
+## Quick Demo
+- Successfully executed Market and Limit orders
+- CLI-based trading bot with logging and validation
+- 
 ## Features
 - Market and Limit Orders
 - BUY and SELL support
